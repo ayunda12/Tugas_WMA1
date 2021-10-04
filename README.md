@@ -11,8 +11,7 @@ NIM  : E41201809 <br/><br/>
 
 <br/>
 <b>3. Tampilan Autocomplete </b>
-<img src="https://user-images.githubusercontent.com/47249108/135790252-f464fe16-a99f-4f0a-8848-5508d02bc456.jpg" width="260" height="550">
-<img src="https://user-images.githubusercontent.com/47249108/135790263-c4f27a65-432c-44e8-b04e-3504447e1b68.jpg" width="260" height="550">
+<img src="https://user-images.githubusercontent.com/47249108/135790252-f464fe16-a99f-4f0a-8848-5508d02bc456.jpg" width="260" height="550"><img src="https://user-images.githubusercontent.com/47249108/135790263-c4f27a65-432c-44e8-b04e-3504447e1b68.jpg" width="260" height="550">
 
 <br/>
 <img src="https://user-images.githubusercontent.com/47249108/135790245-94c80eab-c2c1-43a0-9014-334adee99882.jpg" width="260" height="550">
