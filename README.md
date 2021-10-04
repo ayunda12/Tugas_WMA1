@@ -17,7 +17,4 @@ NIM  : E41201809 <br/><br/>
 <br/>
 <img src="https://user-images.githubusercontent.com/47249108/135790245-94c80eab-c2c1-43a0-9014-334adee99882.jpg" width="260" height="550">
 
-![Screenshot_2021-10-04-06-11-36-13](){width="260" height="550" margin-left="400px"}
 
-
-![Screenshot_2021-10-04-06-09-36-03](https://user-images.githubusercontent.com/47249108/135790263-c4f27a65-432c-44e8-b04e-3504447e1b68.jpg)
